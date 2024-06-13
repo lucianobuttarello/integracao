@@ -18,7 +18,7 @@ Antes de começar, certifique-se de que você tenha as seguintes dependências i
 1. Clone o repositório para o seu ambiente de desenvolvimento:
 
    ```bash
-   git clone [https://gitlab.dbserver.com.br/matheus.muller/prova-sicredi.git](https://github.com/lucianobuttarello/integracao.git)
+   git clone https://github.com/lucianobuttarello/integracao.git
    ```
 
 2. Navegue até o diretório raiz do projeto:
